@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\bin\Debug\net6.0\Colectionsporject.exe
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\bin\Debug\net6.0\Colectionsporject.deps.json
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\bin\Debug\net6.0\Colectionsporject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\bin\Debug\net6.0\Colectionsporject.dll
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\bin\Debug\net6.0\Colectionsporject.pdb
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.dll
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\refint\Colectionsporject.dll
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.pdb
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\Colectionsporject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\16\Colectionsporject\obj\Debug\net6.0\ref\Colectionsporject.dll
